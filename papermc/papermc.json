@@ -1,0 +1,38 @@
+{
+  "Image": "ghcr.io/iwerbn2wq/yolks:minecraft_java_21",
+  "Cmd": "",
+  "Env": [],
+  "StartedMessage": "For help, type",
+  "features": ["eula"],
+  "Scripts": {
+    "Install": [
+      {
+        "Uri": "https://api.papermc.io/v2/projects/paper/versions/{{Version}}/builds/{{Build}}/downloads/paper-{{Version}}-{{Build}}.jar",
+        "Path": "server.jar"
+      },
+      {
+        "Uri": "https://raw.githubusercontent.com/nrmjyhwerv/images_v2/main/spigotmc/server.properties",
+        "Path": "server.properties"
+      }
+    ]
+  },
+   "Variables": {
+    "Version": {
+      "type": "text",
+      "default": "1.21.4",
+      "required": true
+    },
+    "Build": {
+      "type": "text",
+      "default": "72",
+      "required": true
+    }
+  },
+  "Name": "Minecraft Java: PaperMC",
+  "Description": "PaperMC is an optimized, high-performance fork of SpigotMC for Minecraft servers. It aims to improve performance and stability by offering additional features, enhanced configuration options, and bug fixes. Known for its robust plugin compatibility and active development community, PaperMC is a preferred choice for server administrators looking to enhance their Minecraft multiplayer experience.",
+  "Author": "coderxsa@hacker.dev",
+  "AuthorName": "coderxsa",
+  "Meta": {
+    "Version": "Coderxsa Images"
+  }
+}
