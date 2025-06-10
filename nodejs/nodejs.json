@@ -1,5 +1,5 @@
 {
-    "Image": "ghcr.io/ma4z-sys/yolks:nodejs",
+    "Image": "ghcr.io/coderxsa/nodejs:latest",
     "Cmd": "",
     "Env": ["START=npm install", "START2=npm run start"],
     "Scripts": {
