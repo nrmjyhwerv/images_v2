@@ -54,8 +54,8 @@
         }
       ]
     },
-    "Name": "Generic: Node.js",
-    "Description": "Node.js Panel.",
+    "Name": "NEBULA: PRE-INSTALL",
+    "Description": "Install NEbula",
     "Author": "coderxsa",
     "AuthorName": "CODERX",
     "Meta": {
