@@ -5,8 +5,8 @@
     "Scripts": {
       "Install": [
         {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/import.js",
-          "Path": "import.js"
+          "Uri": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/index.js",
+          "Path": "index.js"
         },
         {
           "Uri": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/package.json",
