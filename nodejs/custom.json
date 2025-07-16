@@ -14,7 +14,7 @@
         }
       ]
     },
-    "Name": "Custom Import",
+    "Name": "Custom Node.js Import",
     "Description": "Install Custom bot/script",
     "Author": "coderxsa",
     "AuthorName": "CODERX",
