@@ -12,8 +12,8 @@
           "Path": "requirements.txt"
         },
         {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/import.py",
-          "Path": "import.py"
+          "Uri": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/main.py",
+          "Path": "main.py"
         }
 
       ]
