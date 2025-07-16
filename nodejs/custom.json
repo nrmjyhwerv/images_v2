@@ -1,0 +1,25 @@
+{
+    "Image": "ghcr.io/coderxsa/nodejs:latest",
+    "Cmd": "",
+    "Env": ["START=npm install", "START2=npm run start"],
+    "Scripts": {
+      "Install": [
+        {
+          "Uri": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/import.js",
+          "Path": "import.js"
+        },
+        {
+          "Uri": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/package.json",
+          "Path": "package.json"
+        }
+      ]
+    },
+    "Name": "Custom Import",
+    "Description": "Install Custom bot/script",
+    "Author": "coderxsa",
+    "AuthorName": "CODERX",
+    "Meta": {
+      "Version": "latest"
+    }
+  }
+  
