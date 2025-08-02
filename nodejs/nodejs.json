@@ -5,51 +5,11 @@
     "Scripts": {
       "Install": [
         {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/api.js",
-          "Path": "api.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/bot.js",
-          "Path": "bot.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/cmd.js",
-          "Path": "cmd.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/coderxsa.js",
-          "Path": "coderxsa.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/config.js",
-          "Path": "config.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/exports.js",
-          "Path": "exports.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/general.js",
-          "Path": "general.js"
-        }, 
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/handler.js",
-          "Path": "handler.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/index.js",
+          "Uri": "https://raw.githubusercontent.com/coderxsa/private/refs/heads/main/index.js",
           "Path": "index.js"
         },
         {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/list.js",
-          "Path": "list.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/main.js",
-          "Path": "main.js"
-        },
-        {
-          "Uri": "https://raw.githubusercontent.com/coderxsa/PRIVATE-NEBULA/refs/heads/main/package.json",
+          "Uri": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/package.json",
           "Path": "package.json"
         }
       ]
